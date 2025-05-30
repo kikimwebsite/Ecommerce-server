@@ -1,2 +1,2 @@
 # Ecommerce-server
-Ecommerce server app with Node.js, Express, REST API server on Prisma + PostgreSQL database, deployed on Azure
+Ecommerce server app with Node.js, Fastify, REST API server using DynamoDB, deployed on AWS Lambda
